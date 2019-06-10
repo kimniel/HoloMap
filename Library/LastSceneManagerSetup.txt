@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HoloToolkit-Examples/SpatialMapping/Scenes/TapToPlace.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,8 @@
+Library/metadata/
+Library/shadercompiler/
+Library/ShaderCache/
+.vs/
+Build/
+Logs/
+Temp/
+obj/

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HoloToolkit-Examples/SpatialMapping/Scenes/TapToPlace.unity
+    guid: 6b75bb485379146429e95e2a402d8129
   m_configObjects: {}
